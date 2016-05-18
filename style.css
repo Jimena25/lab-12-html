@@ -1,0 +1,32 @@
+
+h1 {
+    color: #00fff0 ;
+} 
+
+li {
+    color: blue ;
+}
+
+ul {
+    color: purple ;
+}
+
+
+h1 {
+    font-size: 3.5 em;
+    background-color: #000fff;
+    margin: 20px;
+    padding: 40px;
+}
+
+h1 {
+    border-style: dashed;
+    border-width: 5px;
+    border-color: red;
+}
+
+h1 {	<div id="scissors">
+    <p>This is <em class="paper">crazy</em></p>
+</div> 
+
+}
